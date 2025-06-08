@@ -1,4 +1,4 @@
-# Aplikasi Perhitungan Jarak Tempuh Menggunakan Metode Simpson's Rule
+# Aplikasi Metode Simpson’s Rule untuk Menghitung Jarak Tempuh Mobil
 
 
 **Nama: Dimas Ananda Sutiardi**  
